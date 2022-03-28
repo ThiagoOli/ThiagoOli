@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/ThiagoOli">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=ThiagoOli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOli&theme=tokyonight&langs_count=16&layout=compact"
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=ThiagoOli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOli&theme=tokyonight&langs_count=16&layout=compact"
 </div> 
     
 ### Tecnologias que domino 
